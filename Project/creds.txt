@@ -1,3 +1,1 @@
-client_id = "BCITS_MDM"
-username = "chanchal.patidar@kimbal.io"
-password = "Aeiou@8101"
+
